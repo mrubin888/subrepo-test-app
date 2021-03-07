@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:mrubin888/subrepo-test-lib.git
 	branch = master
-	commit = c3ea12b5a5e2a31a3100475c628c7e27a5b521c2
-	parent = 004ec2e1e8781003fbc379b058b4148f7948e45f
+	commit = 89f74acc49888cb87694ce7c72c6a4b8eb9f764d
+	parent = db12c3e31707555f8eff518e4fbca791cedd14ac
 	method = merge
 	cmdver = 0.4.3
