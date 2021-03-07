@@ -1,5 +1,5 @@
 from src.some_other import SOME_OTHER_CONSTANT
-from subrepo_test_lib.src.test_lib import SOME_CONSTANT
+from external.subrepo_test_lib.src.test_lib import SOME_CONSTANT
 
 
 def do_something():
